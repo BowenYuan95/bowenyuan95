@@ -1,4 +1,4 @@
-<center>#Welcome to my GitHub home page!</center><br>
+<div text-align: center>Welcome to my GitHub home page!</div><br>
 -Frontend: HTML, CSS, JavaScript<br>
 -Backend: Java, C++, Python<br>
 -Database: MySQL, MongoDB<br>
