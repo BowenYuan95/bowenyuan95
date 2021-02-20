@@ -1,7 +1,7 @@
 <center># Welcome to my GitHub home page!</center>  
 ***  
--Frontend: HTML, CSS, JavaScript  
--Backend: Java, C++, Python  
--Database: MySQL, MongoDB  
--Framework: React, AWS  
--Level: Still studying...  
+-Frontend: HTML, CSS, JavaScript<br>
+-Backend: Java, C++, Python<br>
+-Database: MySQL, MongoDB<br>
+-Framework: React, AWS<br>
+-Level: Still studying...<br>
