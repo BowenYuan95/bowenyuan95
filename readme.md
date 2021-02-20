@@ -13,5 +13,5 @@
 - Backend: Java, C++, Python<br>
 - Database: MySQL, MongoDB<br>
 - Framework: React, Angular<br>
-- Skill Level: Always under studying<br>
+- Skill Level: Always studying<br>
 
