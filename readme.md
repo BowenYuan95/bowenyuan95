@@ -1,5 +1,5 @@
 <h1 align = center>Welcome to my GitHub!</h1>
-<div align = center background-color = white>
+<div align = center>
     <a href = "https://www.linkedin.com/in/bowen-yuan2020/" target = "_blank">
         <img src = "img/linkedin.svg" width = "20px" height = "20px">
     </a>
