@@ -9,7 +9,7 @@
 </div>
 <br>
 
-- Personal Website: <a href = "Bowenyuan.blog">Bowenyuan.blog</a><br>
+- Personal Website: <a href = "http://www.Bowenyuan.blog">Bowenyuan.blog</a><br>
 - Frontend: HTML, CSS, JavaScript<br>
 - Backend: Java, C++, Python<br>
 - Database: MySQL, MongoDB<br>
