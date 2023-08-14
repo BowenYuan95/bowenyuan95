@@ -8,7 +8,7 @@
     </a>
 </div>
 <br>
-I am now a PH.D student in UNISA, my program is Spatial XR working guidance. 
+I am now a PH.D student in UNISA, my program is Spatial XR working guidance. <br>
 - Personal Website: <a href = "http://www.Bowenyuan.blog">Bowenyuan.blog</a><br>
 - Frontend: HTML, CSS, JavaScript<br>
 - Backend: Java, C++, Python<br>
