@@ -7,11 +7,20 @@
 </p>
 <!--* **Personal Website:** <a href="http://www.Bowenyuan.blog">Bowenyuan.blog</a>-->
 
-<p align="center">
-  <a href="https://bowenyuan95.github.io/">Website</a> ·
-  <a href="https://www.linkedin.com/in/bowen-yuan2020/">LinkedIn</a> ·
-  <a href="https://github.com/BowenYuan95">GitHub</a>
-</p>
+<div align="center">
+  <a href="https://bowenyuan95.github.io/">
+    <img src="img/website.svg" width="22" height="22">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bowen-yuan2020/">
+    <img src="img/linkedin.svg" width="22" height="22">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/BowenYuan95">
+    <img src="img/github.svg" width="22" height="22">
+  </a>
+</div>
+
 
 ## 👋 About Me
 
