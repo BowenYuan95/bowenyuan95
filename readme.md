@@ -56,7 +56,8 @@ Currently exploring how to bridge my background in XR task guidance with Embodie
 
 ### 🌐 Links
 
-* **Personal Website:** <a href="http://www.Bowenyuan.blog">Bowenyuan.blog</a>
+<!--* **Personal Website:** <a href="http://www.Bowenyuan.blog">Bowenyuan.blog</a>-->
+* **Personal Website:** <a href="https://bowenyuan95.github.io/">Bowenyuan.blog</a>
 * **LinkedIn:** <a href="https://www.linkedin.com/in/bowen-yuan2020/">Bowen Yuan</a>
 * **GitHub:** <a href="https://github.com/BowenYuan95">BowenYuan95</a>
 
